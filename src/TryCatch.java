@@ -3,7 +3,7 @@ public class TryCatch {
         int[] n ={1,2,3};
 
         try {
-            System.out.println(n[4]);
+            System.out.println(n[3]);
         } catch (Exception e){
             System.out.println("なし");
         }
